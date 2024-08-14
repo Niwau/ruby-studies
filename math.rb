@@ -45,3 +45,13 @@ puts a % b
 
 puts "Exponentiation of 9.0 and 2.0:"
 puts a ** b
+
+# Methods
+
+a.abs()
+a.ceil()
+a.floor()
+
+# Math module 
+Math.sqrt(9)
+Math.log(10)
